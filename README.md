@@ -1,6 +1,5 @@
 ## Olá! Sou Vinicius Butrico.
 
-Confira minha API de Presença por Reconhecimento Facial nos repositórios fixados.
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
