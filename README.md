@@ -21,6 +21,8 @@
 <div>
 <img height=75 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
 
+<img height=75 src="https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png">
+
 <img height=75 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 
 </div>
