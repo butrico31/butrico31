@@ -25,4 +25,5 @@
 
 <img height=75 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 
+<img height=75 src="https://cdn.iconscout.com/icon/free/png-256/free-vuejs-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175070.png?f=webp&w=128">
 </div>
