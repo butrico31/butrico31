@@ -1,11 +1,8 @@
 ## Olá! Sou Vinicius Butrico.
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/butrico31/butrico31/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/butrico31/butrico31/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/butrico31/butrico31/output/github-contribution-grid-snake.svg">
-</picture>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=butrico31&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=butrico31&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=butrico31&theme=dracula)
 
 
 ## Contato. 📞
@@ -24,3 +21,11 @@
 
 <img height=75 src="https://cdn.iconscout.com/icon/free/png-256/free-vuejs-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175070.png?f=webp&w=128">
 </div>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/butrico31/butrico31/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/butrico31/butrico31/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/butrico31/butrico31/output/github-contribution-grid-snake.svg">
+</picture>
