@@ -8,7 +8,7 @@ const svg=(name,w,h,body)=>fs.writeFileSync(`assets/${name}.svg`,`<svg xmlns="ht
 for(const [theme,[ink,muted,line,cyan,pink]] of Object.entries(themes)){
  const file=`assets/modern-profile-${theme}.svg`;let banner=fs.readFileSync(file,'utf8');banner=banner.replace('>WEB<',`>${stats?stats.commits:'—'}<`).replace('>LAB<',`>${stats?stats.repositories:'—'}<`).replace('>produtos digitais<',`>commits públicos / ${stats?stats.year:new Date().getUTCFullYear()}<`).replace('>experimentos / modding<','>repositórios públicos<');fs.writeFileSync(file,banner);
  for(const [id,n,title] of [['stack','01','TECNOLOGIAS'],['work','02','PROJETOS SELECIONADOS'],['activity','03','ATIVIDADE RECENTE'],['contact','04','ABRIR CONEXÃO']])svg(`live-${id}-${theme}`,1200,74,`<path d="M8 49V26L26 8h28" fill="none" stroke="${cyan}"/><text x="31" y="47" fill="${pink}" font-size="12">${n}</text><text x="77" y="47" fill="${ink}" font-size="16" letter-spacing="3">${title}</text><path d="M470 40h696l26-26" fill="none" stroke="${line}"/><path d="m1180 26 12-12" stroke="${cyan}" stroke-width="2"/>`);
- for(const [key,label] of [['javascript','JavaScript'],['react','React'],['vuejs','Vue'],['java','Java'],['cplusplus','C/C++'],['swift','Swift'],['git','Git']]){
+ for(const [key,label] of [['javascript','JavaScript'],['react','React'],['vuejs','Vue'],['java','Java'],['cplusplus','C/C++'],['git','Git']]){
  const png=fs.readFileSync(`assets/logos/${key}.png`).toString('base64');svg(`live-tech-${key}-${theme}`,116,114,`<path d="M18 2h96v94l-16 16H2V18Z" fill="none" stroke="${line}"/><path d="M2 32V18L18 2h17m46 110h17l16-16v-12" fill="none" stroke="${cyan}"/><path d="M98 112l16-16" stroke="${pink}"/><image href="data:image/png;base64,${png}" x="37" y="22" width="42" height="42"/><text x="58" y="92" text-anchor="middle" fill="${muted}" font-size="12">${label}</text>`);
  }
  for(const [key,title,desc] of [['portfolio','Portfolio','Projetos, habilidades e experiências.'],['archive','Archive XL','Cyberpunk 2077 / expansão de recursos / fork'],['tweak','Tweak XL','Cyberpunk 2077 / TweakDB / fork']])svg(`live-card-${key}-${theme}`,1200,160,`<path d="M50 4H1176l20 20v86M1150 156H24L4 136V58" fill="none" stroke="${line}"/><path d="M4 38V24L24 4h32m1094 152h26l20-20v-14" fill="none" stroke="${cyan}" stroke-width="1.5"/><path d="m1176 156 20-20" stroke="${pink}"/><text x="35" y="65" font-size="30" fill="${ink}" font-weight="600">${title}</text><text x="36" y="107" font-size="20" fill="${muted}">${desc}</text><text x="1126" y="86" font-size="31" fill="${cyan}">↗</text>`);
@@ -27,7 +27,7 @@ Desenvolvedor brasileiro. Transformo ideias em experiências web claras e funcio
 
 ${pic('live-stack','01 — Tecnologias')}
 
-<p align="center">${[['javascript','JavaScript'],['react','React'],['vuejs','Vue'],['java','Java'],['cplusplus','C/C++'],['swift','Swift'],['git','Git']].map(([key,label])=>pic(`live-tech-${key}`,label,'90')).join(' ')}</p>
+<p align="center">${[['javascript','JavaScript'],['react','React'],['vuejs','Vue'],['java','Java'],['cplusplus','C/C++'],['git','Git']].map(([key,label])=>pic(`live-tech-${key}`,label,'90')).join(' ')}</p>
 
 ${pic('live-work','02 — Projetos selecionados')}
 

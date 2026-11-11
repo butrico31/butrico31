@@ -16,6 +16,7 @@ jobs:
       - run: node scripts/update-github-stats.cjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
       - name: Salvar métricas
         run: |
           git config user.name 'github-actions[bot]'
