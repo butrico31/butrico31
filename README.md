@@ -14,7 +14,7 @@ Desenvolvedor brasileiro. Transformo ideias em experiências web claras e funcio
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/live-work-dark.svg"><img src="./assets/live-work-light.svg" width="100%" alt="02 — Projetos selecionados"></picture>
 
-<a href="https://portfolio-tau-steel-80.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/live-card-portfolio-dark.svg"><img src="./assets/live-card-portfolio-light.svg" width="100%" alt="Portfolio — visitar projeto"></picture></a>
+<a href="https://butrico.com.br"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/live-card-portfolio-dark.svg"><img src="./assets/live-card-portfolio-light.svg" width="100%" alt="Portfolio — visitar projeto"></picture></a>
 
 <p align="right"><a href="https://github.com/butrico31/portfolio">Código-fonte ↗</a></p>
 
