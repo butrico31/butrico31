@@ -1,0 +1,36 @@
+{
+  "username": "butrico31",
+  "year": 2026,
+  "commits": 73,
+  "repositories": 28,
+  "stars": 0,
+  "followers": 5,
+  "activity": [
+    {
+      "type": "CreateEvent",
+      "repo": "butrico31/SoftieClub",
+      "date": "2026-10-26T21:29:59Z"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "butrico31/mod_settings",
+      "date": "2026-10-23T14:57:43Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "butrico31/RED4ext.SDK",
+      "date": "2026-10-23T15:21:57Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "butrico31/cp2077-archive-xl",
+      "date": "2026-10-23T14:56:51Z"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "butrico31/cp2077-codeware",
+      "date": "2026-10-23T10:57:01Z"
+    }
+  ],
+  "updatedAt": "2026-11-11T09:00:37.361Z"
+}

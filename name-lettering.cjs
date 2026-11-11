@@ -1,0 +1,5 @@
+const fs=require('node:fs');
+module.exports=(cyan,pink)=>{
+ const letters=JSON.parse(fs.readFileSync('assets/fonts/name-paths.json','utf8')).map(d=>`<path d="${d}"/>`).join('');
+ return `<defs><linearGradient id="name-fill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ee83ed"/><stop offset=".35" stop-color="#bd5cf0"/><stop offset="1" stop-color="#853be1"/></linearGradient><pattern id="name-scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 1H4" stroke="#10091d" stroke-opacity=".22" stroke-width=".7"/></pattern><clipPath id="name-clip">${letters}</clipPath><clipPath id="glitch-slices"><path d="M45 88h540v8H45zm0 25h540v5H45zm0 34h540v7H45zm0 25h540v4H45z"/></clipPath><clipPath id="glitch-pink"><path d="M45 104h540v5H45zm0 54h540v4H45z"/></clipPath></defs><g class="name-glitch" fill="url(#name-fill)" stroke="#a754e3" stroke-width=".5" stroke-linejoin="bevel">${letters}</g><g class="name-glitch" clip-path="url(#name-clip)"><path d="M45 82h540v112H45Z" fill="url(#name-scan)"/></g><g class="name-echo" fill="${pink}" style="clip-path:url(#glitch-pink);animation-delay:.08s">${letters}</g><g class="name-echo" fill="${cyan}">${letters}</g>`;
+};
