@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/modern-profile-dark.svg"><img src="./assets/modern-profile-light.svg" width="100%" alt="Vinicius Butrico — butrico31. 72 commits públicos em 2026 · 28 repositórios públicos · 0 estrelas nos repositórios próprios · 5 seguidores"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/modern-profile-dark.svg"><img src="./assets/modern-profile-light.svg" width="100%" alt="Vinicius Butrico — butrico31. 72 commits públicos em 2026 · 31 repositórios públicos · 0 estrelas nos repositórios próprios · 5 seguidores"></picture>
 
 <!-- contribution-calendar:start -->
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/live-contributions-dark.svg"><img src="./assets/live-contributions-light.svg" width="100%" alt="Calendário real de contribuições de butrico31 no GitHub, em estilo cyberpunk"></picture>
@@ -28,17 +28,17 @@ Desenvolvedor brasileiro. Transformo ideias em experiências web claras e funcio
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/live-activity-dark.svg"><img src="./assets/live-activity-light.svg" width="100%" alt="03 — Atividade recente"></picture>
 
-**72 commits públicos em 2026 · 28 repositórios públicos · 0 estrelas nos repositórios próprios · 5 seguidores**
+**72 commits públicos em 2026 · 31 repositórios públicos · 0 estrelas nos repositórios próprios · 5 seguidores**
 
 | Data (UTC) | Atividade pública | Repositório |
 | :--- | :--- | :--- |
+| 2026-11-12 | Pull request | [prettier/prettier](https://github.com/prettier/prettier) |
+| 2026-11-12 | Pull request | [npm/node-semver](https://github.com/npm/node-semver) |
+| 2026-11-12 | Pull request | [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) |
+| 2026-11-11 | Commits enviados | [butrico31/portfolio](https://github.com/butrico31/portfolio) |
 | 2026-10-26 | Criação de referência | [butrico31/SoftieClub](https://github.com/butrico31/SoftieClub) |
-| 2026-10-23 | Criação de referência | [butrico31/mod_settings](https://github.com/butrico31/mod_settings) |
-| 2026-10-23 | Commits enviados | [butrico31/RED4ext.SDK](https://github.com/butrico31/RED4ext.SDK) |
-| 2026-10-23 | Commits enviados | [butrico31/cp2077-archive-xl](https://github.com/butrico31/cp2077-archive-xl) |
-| 2026-10-23 | Criação de referência | [butrico31/cp2077-codeware](https://github.com/butrico31/cp2077-codeware) |
 
-<sub>Atualizado em 2026-11-11 17:15 UTC. Commits públicos indexados pelo GitHub Search desde 1º de janeiro; não inclui atividade privada. A lista de eventos é uma janela recente, não o histórico completo.</sub>
+<sub>Atualizado em 2026-11-12 17:38 UTC. Commits públicos indexados pelo GitHub Search desde 1º de janeiro; não inclui atividade privada. A lista de eventos é uma janela recente, não o histórico completo.</sub>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/live-contact-dark.svg"><img src="./assets/live-contact-light.svg" width="100%" alt="04 — Abrir conexão"></picture>
 

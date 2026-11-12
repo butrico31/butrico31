@@ -2,35 +2,35 @@
   "username": "butrico31",
   "year": 2026,
   "commits": 72,
-  "repositories": 28,
+  "repositories": 31,
   "stars": 0,
   "followers": 5,
   "activity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "prettier/prettier",
+      "date": "2026-11-12T11:27:47Z"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "npm/node-semver",
+      "date": "2026-11-12T11:10:51Z"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "Leaflet/Leaflet",
+      "date": "2026-11-12T11:03:36Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "butrico31/portfolio",
+      "date": "2026-11-11T10:14:18Z"
+    },
+    {
       "type": "CreateEvent",
       "repo": "butrico31/SoftieClub",
       "date": "2026-10-26T21:29:59Z"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "butrico31/mod_settings",
-      "date": "2026-10-23T14:57:43Z"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "butrico31/RED4ext.SDK",
-      "date": "2026-10-23T15:21:57Z"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "butrico31/cp2077-archive-xl",
-      "date": "2026-10-23T14:56:51Z"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "butrico31/cp2077-codeware",
-      "date": "2026-10-23T10:57:01Z"
     }
   ],
-  "updatedAt": "2026-11-11T17:15:30.840Z"
+  "updatedAt": "2026-11-12T17:38:29.080Z"
 }
