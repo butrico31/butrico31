@@ -7,6 +7,21 @@
   "followers": 5,
   "activity": [
     {
+      "type": "PushEvent",
+      "repo": "butrico31/butrico31",
+      "date": "2026-11-11T09:26:42Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "butrico31/butrico31",
+      "date": "2026-11-11T10:27:57Z"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "butrico31/butrico31",
+      "date": "2026-11-11T09:10:47Z"
+    },
+    {
       "type": "PullRequestEvent",
       "repo": "prettier/prettier",
       "date": "2026-11-12T11:27:47Z"
@@ -15,22 +30,7 @@
       "type": "PullRequestEvent",
       "repo": "npm/node-semver",
       "date": "2026-11-12T11:10:51Z"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "Leaflet/Leaflet",
-      "date": "2026-11-12T11:03:36Z"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "butrico31/portfolio",
-      "date": "2026-11-11T10:14:18Z"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "butrico31/SoftieClub",
-      "date": "2026-10-26T21:29:59Z"
     }
   ],
-  "updatedAt": "2026-11-12T17:38:29.080Z"
+  "updatedAt": "2026-11-13T17:16:17.758Z"
 }
